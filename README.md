@@ -6,6 +6,7 @@ Using the API backend of Cloud One Workload, create a script that will run a rec
 
 MANDATORY variables that must be configured are as follows
 | KEY  | VALUE | DEFAULT | 
+| ---  | ----- | ------- | 
 | configuration.api_key['api-secret-key'] | Your API Key | 'PASTE-YOUR-CLOUDONE-WORKLOAD-API-KEY-HERE' | 
 
 Optional variables that can be configured are as follows
