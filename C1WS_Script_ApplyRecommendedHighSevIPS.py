@@ -32,7 +32,7 @@ Task Description : Using the API backend of Cloud One Workload, create a script 
 
 #Configuration 
 timeInMins = 10 
-sleepTimeInMins = 10
+sleepTimeInMins = 15
 
 # Setup
 if not sys.warnoptions:
