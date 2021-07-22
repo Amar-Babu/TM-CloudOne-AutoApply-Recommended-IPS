@@ -13,4 +13,4 @@ Optional variables that can be configured are as follows
 | KEY  | VALUE | DEFAULT | 
 | ---  | ----- | ------- | 
 | timeInMins | Enter the time period to filter for recently active workloads | 10 | 
-| sleepTimeInMins | Enter the buffer time period to wait until completion of recommendation scan for the active workload | 10 | 
+| sleepTimeInMins | Enter the buffer time period to wait until completion of recommendation scan for the active workload | 15 | 
